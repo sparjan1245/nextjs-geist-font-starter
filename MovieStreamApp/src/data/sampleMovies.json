@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Action Hero",
+    "category": "Action",
+    "poster": "https://placehold.co/400x600?text=Action+Hero+Movie+Poster+with+explosive+scenes",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "An adrenaline-pumping action thriller featuring spectacular stunts and heart-stopping chase sequences.",
+    "cast": ["John Action", "Sarah Fighter", "Mike Warrior"],
+    "rating": 4.5,
+    "releaseDate": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Romantic Dreams",
+    "category": "Romance",
+    "poster": "https://placehold.co/400x600?text=Romantic+Dreams+Movie+Poster+with+beautiful+couple",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A heartwarming love story that will make you believe in true love again.",
+    "cast": ["Emma Love", "Ryan Heart", "Lisa Romance"],
+    "rating": 4.2,
+    "releaseDate": "2023-02-14"
+  },
+  {
+    "id": 3,
+    "title": "Comedy Central",
+    "category": "Comedy",
+    "poster": "https://placehold.co/400x600?text=Comedy+Central+Movie+Poster+with+funny+characters",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A hilarious comedy that will keep you laughing from start to finish.",
+    "cast": ["Jim Funny", "Amy Laugh", "Bob Humor"],
+    "rating": 4.0,
+    "releaseDate": "2023-03-10"
+  },
+  {
+    "id": 4,
+    "title": "Mystery Night",
+    "category": "Drama",
+    "poster": "https://placehold.co/400x600?text=Mystery+Night+Movie+Poster+with+dark+atmosphere",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A gripping mystery drama that will keep you guessing until the very end.",
+    "cast": ["Detective Smith", "Jane Mystery", "Officer Brown"],
+    "rating": 4.3,
+    "releaseDate": "2023-04-05"
+  },
+  {
+    "id": 5,
+    "title": "Space Adventure",
+    "category": "Action",
+    "poster": "https://placehold.co/400x600?text=Space+Adventure+Movie+Poster+with+cosmic+scenes",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "An epic space adventure that takes you to the far reaches of the galaxy.",
+    "cast": ["Captain Star", "Alien Queen", "Robot X1"],
+    "rating": 4.6,
+    "releaseDate": "2023-05-20"
+  },
+  {
+    "id": 6,
+    "title": "Family Fun",
+    "category": "Comedy",
+    "poster": "https://placehold.co/400x600?text=Family+Fun+Movie+Poster+with+happy+family",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A delightful family comedy perfect for movie night with loved ones.",
+    "cast": ["Dad Johnson", "Mom Johnson", "Kids Trio"],
+    "rating": 4.1,
+    "releaseDate": "2023-06-15"
+  },
+  {
+    "id": 7,
+    "title": "Dark Secrets",
+    "category": "Drama",
+    "poster": "https://placehold.co/400x600?text=Dark+Secrets+Movie+Poster+with+mysterious+silhouette",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A psychological drama exploring the depths of human nature and hidden truths.",
+    "cast": ["Dr. Mind", "Patient Zero", "Nurse Care"],
+    "rating": 4.4,
+    "releaseDate": "2023-07-08"
+  },
+  {
+    "id": 8,
+    "title": "Love Letters",
+    "category": "Romance",
+    "poster": "https://placehold.co/400x600?text=Love+Letters+Movie+Poster+with+vintage+romance",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A touching romance about love letters that span decades and bring two souls together.",
+    "cast": ["Writer Tom", "Reader Anna", "Postman Pete"],
+    "rating": 4.7,
+    "releaseDate": "2023-08-12"
+  }
+]
